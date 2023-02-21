@@ -9,11 +9,6 @@ Site do multiverso do Homem-Aranha mostrando todos os filmes solo do Amigão da 
 - [@gustavoagoncalves](https://github.com/gustavoagoncalves)
 
 
-## Demonstração
-
-
-
-
 ## Stack utilizada
 
 **Front-end:** HTML, CSS e Javascript puros, FancyBox.
